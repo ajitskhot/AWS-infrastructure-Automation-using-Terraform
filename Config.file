@@ -1,0 +1,3 @@
+region="YOUR_region"
+key="layer1/infrastructure.tfstate"
+bucket="YOUR_S3_BUCKET_NAME"
